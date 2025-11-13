@@ -1,0 +1,33 @@
+# Free Fire HUD - Wesley Edition (Extended Mode)
+# HUD puro - competitivo
+# Gelo = E | Habilidade Especial = Q | Tiro = Mouse Direito
+
+[HUD]
+BotaoTiro=MouseRight
+BotaoPular=Space
+BotaoAgachar=Ctrl
+BotaoCorrer=Shift
+BotaoParedeDeGelo=E
+BotaoHabilidadeEspecial=Q
+BotaoTrocarArma1=1
+BotaoTrocarArma2=2
+BotaoGranada=4
+BotaoRecarga=R
+BotaoInteragir=F
+BotaoMochila=B
+BotaoMapa=M
+BotaoKitMedico=5
+
+[Layout]
+Modo=Estendido
+PosicaoMira=Centro
+PosicaoBotaoGelo=DireitaInferior
+PosicaoBotaoHabilidade=DireitaMedia
+TamanhoBotoes=Medio
+OpacidadeBotoes=100
+
+[Informacoes]
+Autor=Wesley
+Descricao=HUD clássico estendido com gelo no E e habilidade especial no Q.
+Versao=1.0
+
