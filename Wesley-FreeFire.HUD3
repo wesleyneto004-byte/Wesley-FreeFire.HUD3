@@ -1,0 +1,21 @@
+# Wesley_HUD_FreeFire.cfg
+# HUD Clássico personalizado - Free Fire (Bluestacks)
+
+[Controles]
+Movimento=Tecla W,A,S,D
+Atirar=Botão Esquerdo do Mouse
+Mirar=Botão Direito do Mouse
+Pular=Espaço
+Agachar=Ctrl
+Correr=Shift
+Gelo=Q
+HabilidadeEspecial=E
+ArmaPrimária=1
+ArmaSecundária=2
+ArmaCorpoACorpo=3
+Granada=4
+KitMedico=5
+Recarregar=R
+AbrirMochila=Tab
+Mapa=M
+Interagir=F
